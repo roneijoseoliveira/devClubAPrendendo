@@ -1,0 +1,35 @@
+
+
+#titulo{
+    color: red;
+
+    font-size: 55px;
+}
+
+#paragrafo{
+    color: blue;
+    font-size:  20 px;
+    font-weight: bold;
+}
+
+#botao1{
+    background: green;
+}
+
+#botao2{
+    background: rgb(25, 19, 79);
+}
+
+
+#botao3{
+    background: rgb(42, 23, 26);
+}
+
+
+#botao4{
+    background: rgb(27, 29, 94);
+}
+
+
+
+

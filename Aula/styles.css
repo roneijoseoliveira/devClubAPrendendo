@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   /* height: 200vh;
+    width: 200vh;*/
+}
+
+a{
+    color:blue;
+}
+a::before{
+    content: "->";
+}
+
+a::after{
+    content: "$$$$";
+}
+/*
+input{
+    border: 1px solid red;
+    color: blue;
+}
+input::placeholder{
+    color: #FF11AA
+}
+p{
+    color: #FF11AA;
+}
+p::first-letter{
+    color: red
+}
+
+.div-pai{
+    height: 350px;
+    width: 350px;
+    background-color:#FF1396 ;
+}
+
+.div-filho{
+    height: 150px;
+    width: 150px;
+    background-color:#FFFF00 ;
+}
+.div-2{
+    height: 150px;
+    width: 150px;
+    background-color:#FF0000 ;
+}*/
